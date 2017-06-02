@@ -1,0 +1,9 @@
+17:52:53 **** Incremental Build of configuration Nios II for project tse ****
+make all 
+Info: Building ../tse_bsp/
+C:/altera/15.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../tse_bsp/
+[BSP build complete]
+[tse build complete]
+
+17:52:54 Build Finished (took 670ms)
+
